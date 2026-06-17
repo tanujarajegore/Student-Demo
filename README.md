@@ -1,4 +1,4 @@
-# Student-Demo
-This is my first Git Repository
+#Tanuja
+Code is my canvas,ideas are my colors !!
 <br>
 Author-Tanuja Rajegore
